@@ -1,4 +1,4 @@
-baseURL = "http://gamecononline.netlify.com"
+baseURL = "https://gamecononline.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
